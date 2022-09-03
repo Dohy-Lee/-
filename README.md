@@ -2,6 +2,7 @@
 
 ## Book
 <img src= https://www.hanbit.co.kr/data/books/B2002963743_l.jpg width="480" height="600"> 
+
 ## Index   
 * Chapter 01 나의 첫 머신러닝 ▶️이 생선의 이름은 무엇인가요?
 
